@@ -1,4 +1,4 @@
-package com.coherentsolutions.java.webauto;
+package com.coherentsolutions.java.webauto.library;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
