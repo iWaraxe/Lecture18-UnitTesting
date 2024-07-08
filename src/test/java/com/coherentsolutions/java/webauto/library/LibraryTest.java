@@ -1,4 +1,4 @@
-package com.coherentsolutions.java.webauto;
+package com.coherentsolutions.java.webauto.library;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

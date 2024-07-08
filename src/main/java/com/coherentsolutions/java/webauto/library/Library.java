@@ -1,4 +1,4 @@
-package com.coherentsolutions.java.webauto;
+package com.coherentsolutions.java.webauto.library;
 
 import java.util.*;
 import java.util.stream.Collectors;
